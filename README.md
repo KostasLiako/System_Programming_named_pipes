@@ -1,5 +1,6 @@
 # System_Programming_named_pipes
 
+Η εκφώνηση της εργασίας βρίσκεται [εδώ](https://github.com/KostasLiako/System_Programming_named_pipes/blob/master/hw2-spring-2021.pdf)
 
 ```
 # Εντολή Μεταγλώτισσης:
